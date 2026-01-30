@@ -38,7 +38,7 @@ A modern desktop application to check if your email address has been compromised
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Data-Breach-Checker.git
+   git clone https://github.com/Ilias1988/Data-Breach-Checker.git
    cd Data-Breach-Checker
    ```
 
